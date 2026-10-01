@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhilosoCoder
+- 👋 Hi, I’m @Geralt
 - 👀 I’m interested in java.
-- 📫 How to reach me : philosocoder@gmail.com
+- 📫 How to reach me : g4ralt@gmail.com
 - https://www.codewars.com/users/PhilosoCodR
